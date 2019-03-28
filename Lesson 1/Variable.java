@@ -10,7 +10,5 @@ public class Variable {
 		boolean isGrey = true;
 
 	System.out.println("" + inch + ram + cacheL3 + cacheL2 + processor + hdd + graphicRam + isGrey);
-
-
 	}
 }
