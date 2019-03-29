@@ -9,6 +9,6 @@ public class Variable {
         char graphicRam = 1536;
         boolean isGrey = true;
 
-    System.out.println("" + inch + ram + cacheL3 + cacheL2 + processor + hdd + graphicRam + isGrey);
+        System.out.println("" + inch + ram + cacheL3 + cacheL2 + processor + hdd + graphicRam + isGrey);
     }
 }
